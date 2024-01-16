@@ -54,7 +54,7 @@ msgid "Total Qty Demand Not Equal Total Quantity Done"
 msgstr "إجمالي الكمية المطلوبة غير متساوٍ مع إجمالي الكمية المنجزة"
 
 #. module: zero_no_stock_backorder
-#: model:ir.model.fields,field_description:zero_no_stock_backorder.field_stock_picking__quantity_done
+#: model:ir.model.fields,field_description:zero_no_stock_backorder.field_stock_picking__quantity
 msgid "Total Quantity Done"
 msgstr "اجمالي الكمية المنفذه"
 
