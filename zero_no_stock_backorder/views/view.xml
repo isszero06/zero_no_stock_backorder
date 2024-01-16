@@ -7,7 +7,7 @@
         <field name="arch" type="xml">
             <xpath expr="//field[@name='origin']" position="after">
                 <field name="product_uom_qty" groups="zero_no_stock_backorder.zero_no_stock_backorder_total"/>
-                <field name="quantity_done" groups="zero_no_stock_backorder.zero_no_stock_backorder_total"/>
+                <field name="quantity" groups="zero_no_stock_backorder.zero_no_stock_backorder_total"/>
             </xpath>
         </field>
     </record>
